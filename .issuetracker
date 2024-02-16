@@ -1,0 +1,7 @@
+# Integration with Issue Tracker
+#
+# (note that '\' need to be escaped).
+
+[issuetracker "Codeforce Tracker Rule"]
+  regex = "#(\\d+)([A-Za-z])"
+  url = "https://codeforces.com/problemset/problem/$1/$2"
