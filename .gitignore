@@ -5,3 +5,5 @@
 !/Demo/run.bash
 !/*.*
 !*.c
+!*.cpp
+!in
